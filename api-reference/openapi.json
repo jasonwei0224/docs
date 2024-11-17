@@ -59,7 +59,7 @@
           }
         }
       },
-      "post": {
+      "delete": {
         "description": "Creates a new plant in the store",
         "requestBody": {
           "description": "Plant to add to the store",
