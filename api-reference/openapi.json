@@ -97,7 +97,7 @@
       }
     },
     "/plants/{idd}": {
-      "delete": {
+      "post": {
         "description": "Deletes a single plant based on the ID supplied",
         "parameters": [
           {
