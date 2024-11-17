@@ -19,7 +19,7 @@
     }
   ],
   "paths": {
-    "/plants": {
+    "/plants1": {
       "get": {
         "description": "Returns a1111ll plants from the system that the user has access to",
         "parameters": [
