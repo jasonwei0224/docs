@@ -15,7 +15,7 @@
   ],
   "security": [
     {
-      "bearerAuth": []11111
+      "bearerAuth": []
     }
   ],
   "paths": {
